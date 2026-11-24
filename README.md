@@ -10,8 +10,8 @@
 
 <img src="chess.svg" alt="Chess Corner: animated replay of the Opera Game ending in checkmate" width="100%"/>
 
-<a href="https://lichess.org"><img src="assets/chess-lichess.svg" alt="Play chess on Lichess" width="48%"/></a>
-<a href="https://www.chess.com/play/online"><img src="assets/chess-chesscom.svg" alt="Play chess on Chess.com" width="48%"/></a>
+<a href="https://lichess.org"><img src="chess-lichess.svg" alt="Play chess on Lichess" width="48%"/></a>
+<a href="https://www.chess.com/play/online"><img src="chess-chesscom.svg" alt="Play chess on Chess.com" width="48%"/></a>
 
 <img src="contact-title.svg" alt="Contact Us" width="100%"/>
 
