@@ -10,15 +10,10 @@
 
 <img src="chess.svg" alt="Chess Corner: animated replay of the Opera Game ending in checkmate" width="100%"/>
 
-<a href="https://lichess.org"><img src="chess-lichess.svg" alt="Play chess on Lichess" width="48%"/></a>
-<a href="https://www.chess.com/play/online"><img src="chess-chesscom.svg" alt="Play chess on Chess.com" width="48%"/></a>
-
+<a href="https://lichess.org"><img src="https://img.shields.io/badge/Lichess-262421?style=for-the-badge&logo=lichess&logoColor=white" alt="Play chess on Lichess" height="32"/></a><a href="https://www.chess.com/play/online"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Play chess on Chess.com" height="32"/></a>
 <img src="contact-title.svg" alt="Contact Us" width="100%"/>
 
-<a href="https://www.linkedin.com/in/iamhritikkumar"><img src="contact-linkedin.svg" alt="LinkedIn - Hritik Kumar" width="24%"/></a>
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="contact-telegram.svg" alt="Telegram - chat with me" width="24%"/></a>
-<a href="https://www.youtube.com/@YOUR_CHANNEL"><img src="contact-youtube.svg" alt="YouTube - watch and learn" width="24%"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="contact-gmail.svg" alt="Gmail - email me" width="24%"/></a>
+<a href="https://www.linkedin.com/in/iamhritikkumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"/></a><a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="32"/></a><a href="https://www.youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="32"/></a><a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="32"/></a>
 
 <img src="footer.svg" alt="Ethical note: I only practice on my own labs, CTF platforms and systems I have written permission to test." width="100%"/>
 
